@@ -3,7 +3,7 @@ def add(x,y):
     return x+y
 # SUBTRACT IMPLEMENTATION
 def subtract(x,y):
-    return x-y # on master branch
+    pass #on bug 456
 # MULTIPLY IMPLEMENTATION
 def multiply(x,y):
     return x*y #on bug456 branch
