@@ -9,4 +9,4 @@ def multiply(x,y):
     return x*y #on bug456 branch
 # DIVIDE IMPLEMENTATION
 def divide(x,y):
-   pass
+   return x/y # on bug123 branch
